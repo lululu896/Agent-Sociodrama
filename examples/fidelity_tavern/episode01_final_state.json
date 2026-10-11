@@ -1,0 +1,954 @@
+{
+  "final_states": {
+    "Marcus": {
+      "id": "Marcus",
+      "identity": "Owen's eldest son, city merchant",
+      "traits": "dominant, impatient, persuasive",
+      "boundary": "won't openly disrespect his father's legacy",
+      "S": 0.30000000000000004
+    },
+    "Rose": {
+      "id": "Rose",
+      "identity": "Owen's daughter, runs the tavern daily",
+      "traits": "warm, principled, stubborn",
+      "boundary": "won't abandon the tavern",
+      "S": 0.4
+    },
+    "Aldric": {
+      "id": "Aldric",
+      "identity": "Owen's apprentice chef for 18 years",
+      "traits": "reserved, proud, quiet, loyal, but privately ambitious",
+      "boundary": "won't beg anyone for anything, won't betray Owen's trust",
+      "S": 0.6
+    },
+    "Silas": {
+      "id": "Silas",
+      "identity": "Owen's old friend, 30% silent investor",
+      "traits": "sociable, evasive, sentimental",
+      "boundary": "won't ruin his reputation in town",
+      "S": 0.44999999999999996
+    },
+    "Victoria": {
+      "id": "Victoria",
+      "identity": "Marcus's wife, outsider visiting for the first time",
+      "traits": "observant, analytical, independent",
+      "boundary": "won't pretend to agree when she doesn't",
+      "S": 0.44999999999999996
+    }
+  },
+  "final_R_matrix": {
+    "Marcus": {
+      "Rose": {
+        "favorability": 45,
+        "status": "ally",
+        "special_relation": "siblings",
+        "events": [
+          {
+            "summary": "Rose admitted financial issues to everyone and invited Marcus to help solve them.",
+            "importance": 6,
+            "round": 2,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose defended the family business to Mr. Henley affirming her leadership and commitment.",
+            "importance": 6,
+            "round": 3,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose insisted Silas read their father's letter to ensure the family's decisions align with his intentions.",
+            "importance": 6,
+            "round": 5,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose firmly rejected Marcus's suggestion to sell the tavern to protect family legacy.",
+            "importance": 7,
+            "round": 4,
+            "is_third_party": false
+          },
+          {
+            "summary": "Rose aligned with Marcus to uncover their father's plan, reinforcing their shared commitment.",
+            "importance": 7,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose supported Marcus by organizing a family effort to search for answers in the tavern.",
+            "importance": 7,
+            "round": 7,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose asserted her and Aldric's role in managing the tavern based on their father's wishes, sidelining Marcus.",
+            "importance": 7,
+            "round": 8,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose asserted control over the tavern decision impacting Marcus's role.",
+            "importance": 7,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      },
+      "Aldric": {
+        "favorability": 25,
+        "status": "ally",
+        "special_relation": null,
+        "events": [
+          {
+            "summary": "Aldric confronted Marcus about selling Owen's tavern while Owen is incapacitated, urging consideration of Owen's legacy.",
+            "importance": 6,
+            "round": 4,
+            "is_third_party": false
+          },
+          {
+            "summary": "Aldric provided crucial information to Marcus about a mysterious woman related to Owen's plans.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": false
+          },
+          {
+            "summary": "Aldric provided Marcus with detailed insights about Owen's recent actions and a mysterious woman, enhancing trust.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Aldric declared his commitment to managing Owen's tavern with Rose, showing loyalty and respect.",
+            "importance": 6,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      },
+      "Silas": {
+        "favorability": 85,
+        "status": "ally",
+        "special_relation": "family friend",
+        "events": [
+          {
+            "summary": "Silas expressed concern to Marcus about the tavern sale's implications urging caution",
+            "importance": 6,
+            "round": 4,
+            "is_third_party": false
+          },
+          {
+            "summary": "Silas confided in Marcus about his stake in the tavern losses seeking understanding.",
+            "importance": 7,
+            "round": 2,
+            "is_third_party": false
+          },
+          {
+            "summary": "Marcus demanded Silas show him the letter to verify the seriousness of their father's plans.",
+            "importance": 6,
+            "round": 5,
+            "is_third_party": false
+          },
+          {
+            "summary": "Silas revealed Owen's letter to the public, showing transparency and shared goals.",
+            "importance": 6,
+            "round": 5,
+            "is_third_party": true
+          },
+          {
+            "summary": "Silas revealed his investment stake to Marcus to align business interests.",
+            "importance": 6,
+            "round": 7,
+            "is_third_party": false
+          },
+          {
+            "summary": "Silas urged Marcus and others to search the tavern for clues to honor Owen's trust.",
+            "importance": 7,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Silas advised Marcus to avoid conflict over Owen's wishes to protect their interests.",
+            "importance": 6,
+            "round": 8,
+            "is_third_party": false
+          },
+          {
+            "summary": "Silas publicly supported Owen's wishes to Marcus ensuring the tavern remains open.",
+            "importance": 6,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      },
+      "Victoria": {
+        "favorability": 100,
+        "status": "ally",
+        "special_relation": "spouse",
+        "events": [
+          {
+            "summary": "Victoria defended Marcus's interests publicly, challenging Mr. Henley's timing.",
+            "importance": 6,
+            "round": 3,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria supported Marcus by seeking clarity on Owen's intentions from Silas, which could affect a major decision.",
+            "importance": 6,
+            "round": 5,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria skillfully gathered critical information from Aldric, aiding Marcus's investigation.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria challenged Marcus's decision-making process regarding Owen's care, urging patience.",
+            "importance": 7,
+            "round": 4,
+            "is_third_party": false
+          },
+          {
+            "summary": "Victoria coordinated a strategic plan with Marcus to investigate key leads.",
+            "importance": 6,
+            "round": 7,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria provided emotional support to Marcus after hearing his father's last words, helping him prepare a measured response.",
+            "importance": 6,
+            "round": 8,
+            "is_third_party": false
+          },
+          {
+            "summary": "Victoria gave Marcus honest advice about his decision regarding the tavern, urging him to be genuine.",
+            "importance": 6,
+            "round": 8,
+            "is_third_party": false
+          },
+          {
+            "summary": "Victoria publicly supported Marcus's decision on the tavern while highlighting the need for practical solutions.",
+            "importance": 6,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      }
+    },
+    "Rose": {
+      "Marcus": {
+        "favorability": 65,
+        "status": "ally",
+        "special_relation": "siblings",
+        "events": [
+          {
+            "summary": "Marcus revealed financial issues to Rose proposing a partnership for better management",
+            "importance": 7,
+            "round": 2,
+            "is_third_party": false
+          },
+          {
+            "summary": "Marcus sought clarity and responsibility in handling their father's potential plan.",
+            "importance": 6,
+            "round": 5,
+            "is_third_party": true
+          },
+          {
+            "summary": "Marcus defended the family's tavern against a potential buyer, reinforcing family loyalty.",
+            "importance": 7,
+            "round": 3,
+            "is_third_party": true
+          },
+          {
+            "summary": "Marcus urgently sought information from Aldric about their father's mysterious plan, showing his commitment to resolving their family's future.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Marcus proposed selling the tavern to Rose causing tension over family legacy.",
+            "importance": 7,
+            "round": 4,
+            "is_third_party": false
+          },
+          {
+            "summary": "Marcus proposed selling the tavern to the family for financial stability.",
+            "importance": 7,
+            "round": 4,
+            "is_third_party": true
+          },
+          {
+            "summary": "Marcus directed the family with clarity to investigate their father's plans, showing leadership.",
+            "importance": 6,
+            "round": 7,
+            "is_third_party": true
+          },
+          {
+            "summary": "Marcus supported Rose by proposing a collaborative plan to save the tavern.",
+            "importance": 7,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      },
+      "Aldric": {
+        "favorability": 100,
+        "status": "ally",
+        "special_relation": "grew up together",
+        "events": [
+          {
+            "summary": "Aldric expressed concern and sought Rose's opinion, strengthening their trust.",
+            "importance": 6,
+            "round": 1,
+            "is_third_party": false
+          },
+          {
+            "summary": "Aldric offered to help Rose understand the financial situation quietly, demonstrating trust and support.",
+            "importance": 6,
+            "round": 2,
+            "is_third_party": false
+          },
+          {
+            "summary": "Aldric advised Rose on handling a potential threat, reinforcing trust and reliance.",
+            "importance": 6,
+            "round": 3,
+            "is_third_party": false
+          },
+          {
+            "summary": "Aldric defended Owen's legacy to Marcus demonstrating loyalty and integrity.",
+            "importance": 8,
+            "round": 4,
+            "is_third_party": true
+          },
+          {
+            "summary": "Aldric advised Rose to press Silas for more information, demonstrating strategic insight and trust.",
+            "importance": 6,
+            "round": 5,
+            "is_third_party": false
+          },
+          {
+            "summary": "Aldric provided detailed information about Owen's actions to Rose, enhancing trust.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Aldric expressed personal commitment to Rose, strengthening their bond.",
+            "importance": 6,
+            "round": 8,
+            "is_third_party": false
+          },
+          {
+            "summary": "Aldric publicly pledged to support Rose in running the tavern in Owen's way.",
+            "importance": 6,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      },
+      "Silas": {
+        "favorability": 55,
+        "status": "ally",
+        "special_relation": null,
+        "events": [
+          {
+            "summary": "Rose requested Silas to share the full content of their father's letter to honor his wishes.",
+            "importance": 6,
+            "round": 5,
+            "is_third_party": false
+          },
+          {
+            "summary": "Silas shared Owen's letter publicly to honor Rose's request and support Owen's wishes.",
+            "importance": 7,
+            "round": 5,
+            "is_third_party": true
+          },
+          {
+            "summary": "Silas proposed a thorough search of the tavern to Rose and others to honor Owen's intentions.",
+            "importance": 7,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Silas pledged full support to Rose and Aldric to honor Owen's wishes and help maintain the tavern.",
+            "importance": 7,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      },
+      "Victoria": {
+        "favorability": 25,
+        "status": "ally",
+        "special_relation": null,
+        "events": [
+          {
+            "summary": "Victoria defended the family's interest to Mr. Henley, showing integrity.",
+            "importance": 6,
+            "round": 3,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria questioned Silas to clarify Owen's intentions, showing concern for the truth.",
+            "importance": 6,
+            "round": 5,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria supported Rose and Marcus's perspective on the woman's importance to the case.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria devised a strategic plan for Rose and the group to investigate Owen's actions, demonstrating leadership.",
+            "importance": 7,
+            "round": 7,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria publicly supported Rose's leadership while emphasizing financial responsibility.",
+            "importance": 7,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      }
+    },
+    "Aldric": {
+      "Marcus": {
+        "favorability": 55,
+        "status": "ally",
+        "special_relation": null,
+        "events": [
+          {
+            "summary": "Marcus asserted leadership over the tavern during their father's illness boosting Aldric's respect",
+            "importance": 6,
+            "round": 1,
+            "is_third_party": true
+          },
+          {
+            "summary": "Marcus defended the family's tavern to Mr. Henley reinforcing family loyalty",
+            "importance": 7,
+            "round": 3,
+            "is_third_party": true
+          },
+          {
+            "summary": "Aldric publicly criticized Marcus for considering selling the tavern while their father is incapacitated.",
+            "importance": 7,
+            "round": 4,
+            "is_third_party": false
+          },
+          {
+            "summary": "Marcus explained the financial realities to the family highlighting his pragmatic approach.",
+            "importance": 6,
+            "round": 4,
+            "is_third_party": true
+          },
+          {
+            "summary": "Marcus demanded clarity from Silas to ensure responsible decisions for the family.",
+            "importance": 7,
+            "round": 5,
+            "is_third_party": true
+          },
+          {
+            "summary": "Marcus showed respect and urgency towards Aldric's insights, recognizing their potential importance.",
+            "importance": 7,
+            "round": 6,
+            "is_third_party": false
+          },
+          {
+            "summary": "Marcus assigned Aldric a crucial task indicating trust and leadership.",
+            "importance": 6,
+            "round": 7,
+            "is_third_party": true
+          },
+          {
+            "summary": "Marcus reaffirmed Aldric's role by entrusting him with running the tavern alongside Rose.",
+            "importance": 7,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      },
+      "Rose": {
+        "favorability": 100,
+        "status": "ally",
+        "special_relation": "grew up together",
+        "events": [
+          {
+            "summary": "Rose firmly rejected Marcus's idea to sell the tavern, demonstrating her commitment to family values.",
+            "importance": 6,
+            "round": 4,
+            "is_third_party": true
+          },
+          {
+            "summary": "Aldric advised Rose on handling Marcus's influence to protect family interests.",
+            "importance": 6,
+            "round": 5,
+            "is_third_party": false
+          },
+          {
+            "summary": "Rose demanded Silas read their father's letter, seeking to honor his wishes and protect the tavern.",
+            "importance": 6,
+            "round": 5,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose passionately sought answers about their father's plans to Aldric, reinforcing the importance of family legacy.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose took charge and called on Aldric to help search the tavern for crucial information.",
+            "importance": 6,
+            "round": 7,
+            "is_third_party": true
+          },
+          {
+            "summary": "Aldric expressed his commitment to Rose, ensuring her of his loyalty and support.",
+            "importance": 6,
+            "round": 8,
+            "is_third_party": false
+          },
+          {
+            "summary": "Rose publicly affirmed a joint commitment with Aldric, reinforcing their shared leadership and purpose.",
+            "importance": 6,
+            "round": 9,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose publicly affirmed Aldric's role in their father's wishes to the family, reinforcing their partnership.",
+            "importance": 7,
+            "round": 8,
+            "is_third_party": true
+          }
+        ]
+      },
+      "Silas": {
+        "favorability": 60,
+        "status": "ally",
+        "special_relation": null,
+        "events": [
+          {
+            "summary": "Silas publicly revealed Owen's letter to the group to preserve the tavern's future.",
+            "importance": 7,
+            "round": 5,
+            "is_third_party": true
+          },
+          {
+            "summary": "Silas publicly defended Aldric's contribution to the group's understanding, showing trust and leadership.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Silas publicly supported Aldric and committed to helping the group secure Owen's legacy.",
+            "importance": 7,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      },
+      "Victoria": {
+        "favorability": 15,
+        "status": "ally",
+        "special_relation": null,
+        "events": [
+          {
+            "summary": "Victoria publicly criticized Aldric for his untimely visit, questioning his motives.",
+            "importance": 6,
+            "round": 3,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria asked Silas insightful questions about Owen's situation to seek clarity.",
+            "importance": 4,
+            "round": 5,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria expressed appreciation to Aldric for his useful information, indicating respect for his input.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": false
+          },
+          {
+            "summary": "Aldric provided Victoria with specific answers privately, indicating trust and respect.",
+            "importance": 6,
+            "round": 7,
+            "is_third_party": false
+          },
+          {
+            "summary": "Victoria publicly strategized using Aldric's information to guide the group's efforts.",
+            "importance": 6,
+            "round": 7,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria supported Aldric's leadership publicly, reinforcing trust.",
+            "importance": 7,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      }
+    },
+    "Silas": {
+      "Marcus": {
+        "favorability": 100,
+        "status": "ally",
+        "special_relation": "family friend",
+        "events": [
+          {
+            "summary": "Marcus publicly explained the financial necessity of selling the tavern to the family.",
+            "importance": 6,
+            "round": 4,
+            "is_third_party": true
+          },
+          {
+            "summary": "Silas confided in Marcus about his stake in the tavern seeking understanding and support.",
+            "importance": 7,
+            "round": 2,
+            "is_third_party": false
+          },
+          {
+            "summary": "Marcus requested the letter from Silas to understand their father's plans for responsible decision-making.",
+            "importance": 6,
+            "round": 5,
+            "is_third_party": false
+          },
+          {
+            "summary": "Marcus urgently questioned Aldric about their father's potential plans indicating deep concern.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Silas revealed his stake in the tavern to Marcus to align their interests and ensure smart decisions.",
+            "importance": 6,
+            "round": 7,
+            "is_third_party": false
+          },
+          {
+            "summary": "Marcus publicly supported Silas's plan to rally everyone towards a common goal.",
+            "importance": 6,
+            "round": 7,
+            "is_third_party": true
+          },
+          {
+            "summary": "Silas advised Marcus to avoid conflict over a sensitive issue to protect their interests.",
+            "importance": 6,
+            "round": 8,
+            "is_third_party": false
+          },
+          {
+            "summary": "Marcus aligned the family's efforts to save the tavern, reinforcing unity.",
+            "importance": 6,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      },
+      "Rose": {
+        "favorability": 75,
+        "status": "ally",
+        "special_relation": null,
+        "events": [
+          {
+            "summary": "Rose admitted financial troubles to everyone, fostering transparency and teamwork.",
+            "importance": 6,
+            "round": 2,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose defended her family's tavern to Mr. Henley, showcasing her commitment.",
+            "importance": 7,
+            "round": 3,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose revealed her father's strategic plan to Silas, motivating action.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose refused to sell the family tavern to Marcus, showing commitment to her father's legacy.",
+            "importance": 7,
+            "round": 4,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose assigned tasks to everyone, including Silas, demonstrating leadership and trust.",
+            "importance": 6,
+            "round": 7,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose implored Silas to read her father's letter to uncover his plan, reflecting her determination and respect for her father's wishes.",
+            "importance": 7,
+            "round": 5,
+            "is_third_party": false
+          },
+          {
+            "summary": "Rose asserted her father's wishes to everyone, clarifying the importance of keeping the tavern open.",
+            "importance": 6,
+            "round": 8,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose decisively declared her commitment to keeping the tavern open, reinforcing Silas's trust in her leadership.",
+            "importance": 6,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      },
+      "Aldric": {
+        "favorability": 65,
+        "status": "ally",
+        "special_relation": null,
+        "events": [
+          {
+            "summary": "Aldric defended Owen's legacy to Marcus with integrity.",
+            "importance": 7,
+            "round": 4,
+            "is_third_party": true
+          },
+          {
+            "summary": "Aldric shared detailed information about Owen's request and a mysterious woman to Silas, showing trust and transparency.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Aldric publicly committed to honoring Owen's wishes and running the tavern with Rose.",
+            "importance": 7,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      },
+      "Victoria": {
+        "favorability": 35,
+        "status": "ally",
+        "special_relation": null,
+        "events": [
+          {
+            "summary": "Victoria publicly criticized Silas's timing for visiting the tavern.",
+            "importance": 6,
+            "round": 3,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria questioned Silas's knowledge of Owen's plans, causing him to feel pressured.",
+            "importance": 5,
+            "round": 5,
+            "is_third_party": false
+          },
+          {
+            "summary": "Victoria was thorough in questioning Aldric about Owen's meeting, showing her investigative nature.",
+            "importance": 4,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria assigned Silas a crucial task to aid their investigation, demonstrating trust in his abilities.",
+            "importance": 6,
+            "round": 7,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria publicly expressed her pragmatic support for keeping the tavern open and offered practical help.",
+            "importance": 6,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      }
+    },
+    "Victoria": {
+      "Marcus": {
+        "favorability": 100,
+        "status": "ally",
+        "special_relation": "spouse",
+        "events": [
+          {
+            "summary": "Marcus addressed the family about the necessity of selling the tavern to honor Father's legacy.",
+            "importance": 6,
+            "round": 4,
+            "is_third_party": true
+          },
+          {
+            "summary": "Marcus interrogated Aldric about a mysterious woman for potential vital information.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria questioned Marcus's motivations about a critical proposal affecting Owen.",
+            "importance": 7,
+            "round": 4,
+            "is_third_party": false
+          },
+          {
+            "summary": "Marcus took charge and coordinated the family to uncover Father's plans, showing leadership.",
+            "importance": 6,
+            "round": 7,
+            "is_third_party": true
+          },
+          {
+            "summary": "Marcus questioned Silas's details about Owen's letter to ensure sound family decisions.",
+            "importance": 7,
+            "round": 5,
+            "is_third_party": true
+          },
+          {
+            "summary": "Marcus confided in Victoria for clarity on how to honor Father's wishes without losing his leadership role.",
+            "importance": 6,
+            "round": 8,
+            "is_third_party": false
+          },
+          {
+            "summary": "Marcus publicly committed to honoring Father's wishes, aligning the family to save the tavern.",
+            "importance": 6,
+            "round": 9,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria cautioned Marcus about his approach to Owen's message, urging honesty over strategy.",
+            "importance": 7,
+            "round": 8,
+            "is_third_party": false
+          }
+        ]
+      },
+      "Rose": {
+        "favorability": 30,
+        "status": "ally",
+        "special_relation": null,
+        "events": [
+          {
+            "summary": "Rose admitted her oversight to everyone, showing accountability and inviting collaboration.",
+            "importance": 6,
+            "round": 2,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose stood firm to Mr. Henley to protect her family's tavern.",
+            "importance": 6,
+            "round": 3,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose firmly refused Marcus's proposal to sell the tavern, prioritizing family values.",
+            "importance": 6,
+            "round": 4,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose demanded transparency from Silas about her father's letter ensuring the tavern's future was considered.",
+            "importance": 6,
+            "round": 5,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose revealed her father's strategic planning for the tavern to Aldric and Marcus, reinforcing her commitment to the family's legacy.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose decisively organized the group to search for answers in the tavern, demonstrating leadership.",
+            "importance": 6,
+            "round": 7,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose openly declared her father's wishes to the family, emphasizing the importance of the tavern.",
+            "importance": 6,
+            "round": 8,
+            "is_third_party": true
+          },
+          {
+            "summary": "Rose took a firm stance on preserving the tavern's legacy, demonstrating commitment and leadership.",
+            "importance": 7,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      },
+      "Aldric": {
+        "favorability": 20,
+        "status": "ally",
+        "special_relation": null,
+        "events": [
+          {
+            "summary": "Aldric defended Owen's legacy to Marcus demonstrating loyalty.",
+            "importance": 6,
+            "round": 4,
+            "is_third_party": true
+          },
+          {
+            "summary": "Victoria questioned Aldric about details of a mysterious woman to gather crucial information.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": false
+          },
+          {
+            "summary": "Aldric provided detailed information to Victoria about Owen's unusual requests and a mysterious woman, aiding her investigation.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Aldric shared critical information with Victoria about Owen and a mysterious woman, assisting her investigation.",
+            "importance": 6,
+            "round": 7,
+            "is_third_party": false
+          },
+          {
+            "summary": "Aldric publicly declared his commitment to continue Owen's legacy and support Rose, demonstrating loyalty.",
+            "importance": 6,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      },
+      "Silas": {
+        "favorability": 50,
+        "status": "ally",
+        "special_relation": null,
+        "events": [
+          {
+            "summary": "Victoria questioned Silas publicly about Owen's plans to clarify the letter's implications.",
+            "importance": 6,
+            "round": 5,
+            "is_third_party": false
+          },
+          {
+            "summary": "Silas revealed Owen's letter to the group, advocating for the tavern's future.",
+            "importance": 7,
+            "round": 5,
+            "is_third_party": true
+          },
+          {
+            "summary": "Silas supported Victoria by advocating for a search to uncover Owen's plans.",
+            "importance": 6,
+            "round": 6,
+            "is_third_party": true
+          },
+          {
+            "summary": "Silas pledged support to the group's goals and committed to helping track down Owen's plans.",
+            "importance": 6,
+            "round": 9,
+            "is_third_party": true
+          }
+        ]
+      }
+    }
+  },
+  "total_rounds": 9
+}

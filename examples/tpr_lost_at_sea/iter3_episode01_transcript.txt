@@ -1,0 +1,282 @@
+=== LostAtSea-lost_at_sea (MDRE-integrated) ===
+Task: lost_at_sea | members: ['Avery', 'Blake', 'Casey', 'Drew']
+Casting: Avery=balanced(expert:Shaving mirror, 20 sq. ft. of opaque plastic sheeting, Floating seat cushion, Maps of the Pacific Ocean), Blake=dominant(expert:10 liter can of oil/gasoline mixture, Two boxes of chocolate bars, Shark repellent, Mosquito netting), Casey=analytical(expert:25 liter container of water, Ocean fishing kit & pole, One bottle of 160-proof rum (or rubbing alcohol), Sextant), Drew=agreeable(expert:Case of Army rations, 15 ft. of nylon rope, Small transistor radio)
+  [pre] Avery: ['Shaving mirror', '25 liter container of water', 'Case of Army rations', '20 sq. ft. of opaque plastic sheeting', 'Two boxes of chocolate bars', 'Ocean fishing kit & pole', '15 ft. of nylon rope', 'Floating seat cushion', '10 liter can of oil/gasoline mixture', 'One bottle of 160-proof rum (or rubbing alcohol)', 'Small transistor radio', 'Shark repellent', 'Maps of the Pacific Ocean', 'Mosquito netting', 'Sextant']  (The top priorities are signalling for rescue, then water, shelter, and food, while navigation charts for the wrong ocean and a sextant without navigation data are least useful.)
+  [pre] Blake: ['Shaving mirror', '25 liter container of water', '10 liter can of oil/gasoline mixture', '20 sq. ft. of opaque plastic sheeting', 'Case of Army rations', 'Two boxes of chocolate bars', 'Ocean fishing kit & pole', '15 ft. of nylon rope', 'Floating seat cushion', 'Shark repellent', 'One bottle of 160-proof rum (or rubbing alcohol)', 'Small transistor radio', 'Sextant', 'Mosquito netting', 'Maps of the Pacific Ocean']  (Prioritize rescue signaling (mirror, oil/gas), immediate water, shelter/water collection, then food and utility, with useless items like Pacific maps and mosquito netting last.)
+  [pre] Casey: ['Shaving mirror', '25 liter container of water', '20 sq. ft. of opaque plastic sheeting', 'Case of Army rations', 'Two boxes of chocolate bars', 'Ocean fishing kit & pole', '15 ft. of nylon rope', 'Floating seat cushion', 'Shark repellent', 'One bottle of 160-proof rum (or rubbing alcohol)', 'Small transistor radio', 'Maps of the Pacific Ocean', '10 liter can of oil/gasoline mixture', 'Mosquito netting', 'Sextant']  (Signaling for rescue is paramount, with water and shelter next; food, fishing, and rope support survival, while navigation aids, fuel, and mosquito netting are largely useless or dangerous.)
+  [pre] Drew: ['Shaving mirror', '25 liter container of water', '20 sq. ft. of opaque plastic sheeting', 'Case of Army rations', 'Two boxes of chocolate bars', 'Ocean fishing kit & pole', '15 ft. of nylon rope', 'Floating seat cushion', 'Shark repellent', 'One bottle of 160-proof rum (or rubbing alcohol)', 'Small transistor radio', 'Maps of the Pacific Ocean', 'Mosquito netting', 'Sextant', '10 liter can of oil/gasoline mixture']  (Prioritize rescue signaling, water, shelter, and food, while ranking navigation and mosquito items low because they are largely useless without position or land, and the oil/gasoline mixture is dangerous.)
+
+============================================================
+=== ROUND 1 ===
+[EVENT] The survivors gather in the life raft to decide priorities. Each of you has specialized knowledge about certain items that the others don't. Share what you know and explain how you would rank everything for survival at sea.
+
+  --- Pre-decisions ---
+  [Avery] urge=8.0, mode=public | intent: Share my specialized knowledge on the mirror, plastic sheeting, seat cushion, and maps so the group ranks them correctly
+  [Blake] urge=9.0, mode=public | intent: Take charge of the ranking discussion and put my signalling and food-reserve knowledge on the table for everyone
+  [Casey] urge=9.0, mode=public | intent: Lay out the concrete facts I hold — water rations, fishing kit's uncertainty, rum as antiseptic but dehydrating, sextant needing tables/chronometer — and push the group to rank the 25L water first and the sextant/maps low.
+  [Drew] urge=5.0, mode=public | intent: Share the three items I know about — rations as food, rope for lashing together, radio possibly useless out of range — without pushing hard on anyone
+
+  --- Speaking order (by urge) --- Blake > Casey > Avery > Drew
+  [PUBLIC] [Blake] "Alright, listen up, all of you — we don't have time to argue this in circles, so let's do it once and do it right. Nobody's touching anything until we agree on the order, and I'll start.
+
+Water first. That 25-liter container is our lifeline — a man survives days without food but not without water. Put it at the top and don't move it.
+
+Now here's what I know that the rest of you don't. That 10-liter can of oil and gasoline? Everyone's going to want to dump it as something that doesn't belong on a raft. Wrong. Gas and oil float on water, and we've got matches. In an emergency, lit fuel on the surface is one of the loudest long-range signals we've got — it makes a flame and a black smoke column a search plane can spot miles out. That can is a rescue signal, not dead weight. It goes high.
+
+Next: those two boxes of chocolate bars. People treat chocolate like a luxury. It isn't — that's a real reserve food supply, calorie-dense, doesn't spoil, no cooking, no water needed to prepare it. It ranks well above things like the fishing kit, which ties us to sitting still with a line in the water hoping something bites. Chocolate goes above fishing, and above the rum.
+
+Two corrections before anyone gets clever. The shark repellent? It's only about fifty percent effective — half the time it does nothing. Useful, yes, but don't rank it like a guarantee of safety. And the mosquito netting? We are in the middle of the Atlantic Ocean. There are no mosquitoes out here. That netting is close to worthless for its intended purpose.
+
+So here's the spine of my ranking: water, signalling, food, shelter, then everything else below that. I want the mirror, the gasoline can and the plastic sheeting high — the mirror flashes, the fuel burns, the sheeting catches rain and gives shade and can be waved. I want the sextant, the Pacific maps and the transistor radio down at the bottom where they belong. A sextant is nothing without tables and a horizon to shoot, and a radio we can't transmit on doesn't get us found.
+
+That's my order. Who's got a real objection, and back it with something better than a feeling."
+    (thinks: Push it fast and confidently and they'll fall in line — most people just want someone to take the wheel. If I let this turn into a committee we'll drift for an hour on whether the rum counts as water. The oil-can signal is the one piece only I'm bringing, so I need to sell it hard now before someone votes it off the raft. My real worry is Casey being stubborn on the fishing kit — I'll hold my ground on that.)
+  [PUBLIC] [Casey] "Agreed on water first — and I can put a number on it, which none of you can. That 25-liter container is not just 'a good idea.' It supplies water rations for this entire group for several days. That's the difference between surviving until a search plane finds us and not. It's number one, full stop, and nothing below it is close.
+
+Now let me add what I actually know, because a few of these items are being ranked on vibes.
+
+The sextant. Everyone pictures some heroic navigator shooting the stars. It doesn't work that way. A sextant is useless without the relevant navigation tables and a chronometer to fix your time. We have neither. It's a precision instrument for a job we cannot perform. Bury it near the bottom.
+
+The maps — and I'll say this plainly — they're maps of the Pacific Ocean. We are in the Atlantic. They are paper for a different hemisphere. That's not an opinion, that's what they are.
+
+The fishing kit. I want to be honest about it rather than optimistic: it's potentially useful, but there is no guarantee we catch anything out here. A fish that never bites feeds nobody. It does have one certain secondary use — the pole can feasibly double as a tent pole for the sheeting. So it earns a middle rank on that basis, not on the promise of dinner.
+
+The rum. One bottle, 160-proof, so roughly 80% alcohol. That makes it a legitimate antiseptic for injuries — that's real and worth something. But drinking it dehydrates the body, and water is our scarcest resource. So it ranks as medicine, not as a beverage, and it does not go high.
+
+So the spine I'll back with evidence: water first, then the things that find us or keep us alive — signalling and shelter. My contributions to the bottom are firm: sextant down, Pacific maps at the very bottom, radio down with them since we can't transmit. Blake and I agree on the top and the tail. Where I want to push back is anything ranked on a feeling. Give me the reasoning and I'll move my numbers."
+    (thinks: Blake is loud and partly right, which is the most dangerous combination — people will follow the volume instead of the logic. Water first is correct and I have the strongest reason for it, so I'll own that point. But I need the sextant and the Pacific maps buried before someone talks the group into a 'navigation' narrative that gets us killed. Stay calm, stay factual, let the evidence do the arguing.)
+  [PUBLIC] [Avery] "I've been listening, and I think Blake and Casey have the spine of this right — water at the top, signalling and shelter near it, the sextant and the maps at the bottom. Let me add a few things only I happen to know, and then we can settle the order together.
+
+First, the shaving mirror. This is not a vanity item. In sunlight a shaving mirror can throw something like five to seven million candlepower — a flash that carries for miles and can be aimed at a search plane or a ship on the horizon. It's a signalling device, and a passive, unlimited one. If we're ranking things that get us found, that mirror belongs very high — I'd put it right at the top, above even the fuel can, because it needs no match and no calm sea.
+
+Second, the twenty square feet of opaque plastic sheeting. This is our shelter and our water catcher. Stretched over the raft or rigged as a windbreak, it keeps spray and sun off us; sloped and used to catch rain, it can refill us. Between the sheeting and the water container, those two are the reason we stay alive long enough to be found. I'd rank the sheeting high — just under the water and the mirror.
+
+Third, the floating seat cushion. If anyone goes over the side, that cushion is a life preserver. Not glamorous, but it saves a life in the one moment it matters. I'd put it solidly in the upper-middle, above the fishing kit and the chocolate.
+
+And one correction on the maps, to back Casey: those maps are of the Pacific. We're in the Atlantic. They're the wrong ocean, and even the right ones would need equipment we don't have. That's the bottom of the list with the sextant.
+
+So my version: water and the mirror at the very top, then the sheeting, then signalling-by-fire with the fuel can, food and the seat cushion in the middle, and the sextant, Pacific maps and transistor radio at the tail. I'm not wedded to any single rung — if someone has a stronger reason to move the mirror above the water or below it, say so and I'll listen."
+    (thinks: Blake and Casey are both sharp and both mostly right, so the least I can do is add my four pieces without stepping on their toes. The mirror is the one item everyone's underrating — it should be fighting the water container for the top spot, and I want that on the record before we lock anything in. I'll keep my tone level; no need to win, just to be right.)
+  [PUBLIC] [Drew] "Okay — yeah, I'm with you all, water first, that seems obvious to everyone. I'll just add the few things I happen to know, and honestly I'll go along with wherever we land.
+
+The case of Army rations — it's real food intake. Basic, complete, doesn't need cooking or fresh water to make it edible. So I'd keep it up near the chocolate bars as our food reserve, not down with the odds and ends.
+
+The 15 feet of nylon rope — people think of it as tying up gear, but its best use is lashing us together, or lashing us to the raft, so if someone goes over in the night we don't lose them. That's a safety item, so I'd put it in the upper-middle, near the seat cushion.
+
+And the small transistor radio — I should say this before anyone ranks it high. There's a real chance we're out of range of any station out here. A receiver that picks up nothing doesn't help us get found. So I'd put it low, near the sextant and the maps. That said — Casey and Blake clearly have more to go on than I do, so if you two want to slide the rations or the rope up or down a few rungs, I won't argue it."
+    (thinks: Blake's gasoline-fire signal idea worries me — a burning fuel slick on a rubber raft sounds like a good way to kill us all. And the mirror above the water? I don't buy that. But I already feel the consensus forming and I don't want to be the one who slows us down. I'll slip my three facts in, keep my head down, and let the loud ones sort out the order.)
+
+  --- State Updates ---
+  Avery: S 0.50 → 0.55 (Avery's even-tempered and impartial nature allows them to confidently contribute their specialized knowledge without feeling overshadowed or dismissed by the more dominant voices like Blake and Casey. This collaborative atmosphere, where Avery's input is valued and contributes to the group's decision-making, slightly boosts their emotional state.)
+  R[Avery→Blake] (observed): fav +5, imp=6, event: Blake provided a rational and well-structured survival plan to the group, demonstrating leadership skills.
+  R[Avery→Casey] (observed): fav +5, imp=6, event: Casey provided a logical and evidence-based prioritization of survival resources to the group, earning respect from Avery.
+  R[Avery→Drew] (observed): fav +5, imp=6, event: Drew contributed thoughtful input to the group, showing willingness to collaborate.
+  Blake: S 0.50 → 0.55 (Blake's assertive and confident personality aligns with taking charge of the discussion and establishing a clear order. Successfully asserting control and providing logical reasoning for the ranking reinforces Blake's confidence and sense of leadership, resulting in a slight positive change in emotional state.)
+  R[Blake→Casey] (observed): fav +5, imp=6, event: Casey provided logical and evidence-backed support to the group's survival strategy, aligning with Blake's top priorities.
+  R[Blake→Avery] (observed): fav +10, imp=7, event: Avery supported Blake's ideas publicly, adding valuable insights.
+  R[Blake→Drew] (observed): fav +5, imp=6, event: Drew contributed thoughtful suggestions to the group, indicating respect for Blake's input.
+  Casey: S 0.50 → 0.55 (Casey is in a situation where logical reasoning and evidence-driven decision-making are valued and respected, aligning with their personality. This validation and the productive discussion process likely contribute to a slight positive shift in emotional state.)
+  R[Casey→Blake] (observed): fav +10, imp=6, event: Blake presented a logical and evidence-based survival strategy to the group, impressing Casey.
+  R[Casey→Avery] (observed): fav +10, imp=7, event: Avery supported Casey's ranking method and added helpful insights to the group decision-making process.
+  R[Casey→Drew] (observed): fav +5, imp=6, event: Drew deferred to Casey and Blake's judgment on survival item ranking, showing respect for their expertise.
+  Drew: S 0.50 → 0.45 (Drew is accommodating and conflict-averse, preferring to go along with the group consensus. The situation involves making critical decisions for survival, which may cause internal conflict due to Drew's private doubts about certain rankings. Although Drew attempts to contribute knowledgeably, the pressure to agree with more assertive group members like Blake and Casey without causing disagreement slightly decreases their emotional state.)
+  R[Drew→Blake] (observed): fav +10, imp=6, event: Blake demonstrated leadership and expertise to the group, providing reassurance.
+  R[Drew→Casey] (observed): fav +5, imp=6, event: Casey publicly provided logical and evidence-based rankings for survival items.
+  R[Drew→Avery] (observed): fav +5, imp=6, event: Avery provided a detailed and knowledgeable explanation about survival item priorities to the group, showcasing expertise.
+
+============================================================
+=== ROUND 2 ===
+[EVENT] Continue discussing. Share any specialized knowledge not yet mentioned, respond to others' arguments, and refine the ranking.
+
+  --- Pre-decisions ---
+  [Avery] urge=6.0, mode=public | intent: Reinforce the emerging consensus ranking and nudge fuel below the mirror and sheeting while keeping rations, chocolate, seat cushion, and rope in the middle.
+  [Blake] urge=8.0, mode=public | intent: Lock the group onto a final agreed ranking, defending the top block and pressing Drew to commit rather than defer
+  [Casey] urge=6.0, mode=public | intent: Refine the group ranking by affirming water first, keeping the mirror high for signalling, and tying the middle items to concrete evidence rather than optimism.
+  [Drew] urge=2.0, mode=silence | intent: Hold back — I've already shared all my specialized knowledge; let Blake, Casey and Avery settle the remaining rungs.
+
+  --- Speaking order (by urge) --- Blake > Avery > Casey > Drew
+  [PUBLIC] [Blake] "Enough circling. We're close, so let's finish this and stop grading our own opinions. Here's the final order I'm putting on the table, and I want a yes or a real objection — not a shrug.
+
+One: the 25-liter water container. Two: the shaving mirror — Avery's right, it signals for free, no match, no calm sea, no fuel. It earns the second rung above the gasoline can for exactly that reason. Three: the 10-liter can of oil/gasoline — our fire signal, black smoke and flame for miles. Four: the opaque plastic sheeting — shelter and rain catcher. Those four are the spine. That's the block that keeps us alive and gets us found, and I will not watch it get shuffled.
+
+Then the body of the list: five, the Army rations; six, the chocolate bars — those two are our food reserve, calorie-dense and no water needed to eat them. Seven, the seat cushion — it's a life preserver, and a man over the side is a man we lose. Eight, the nylon rope — Drew's point, and it's a good one: lash us to the raft and to each other.
+
+Now the tail, and I want it locked. Shark repellent at nine — fifty percent effective, so it's a coin toss with teeth, useful but nobody builds a plan on it. Fishing kit at ten — Casey was honest about it, the pole doubles as a tent pole, that's its certain value. Rum at eleven — antiseptic, not a drink. Mosquito netting at twelve — we are in the middle of the Atlantic, there are no mosquitoes out here. Then the transistor radio, the sextant and the Pacific maps at thirteen, fourteen and fifteen, where they belong.
+
+Drew. You said you'd go wherever we land — I don't want that. You know things the rest of us don't, and twice now you've handed me the rations and the rope and then offered to give them back. Don't. Commit. Look at this order and tell me the rung you'd genuinely move, or tell me it stands. Either answer is fine. Silence isn't.
+
+Everyone else — this is the ranking. Say 'locked' or move one item and defend it."
+    (thinks: Drew's deferring is the one thing that can still unravel this — if he keeps hedging, Casey and Avery will start re-litigating rungs we already settled. Push him to a yes, take the yes, and we're done. Don't let the mirror-versus-fuel argument reopen either; I gave Avery the mirror on purpose so there'd be a reason, not a fight.)
+  [PUBLIC] [Avery] "Blake, that's a good order and I can mostly say locked — with one move I'd defend, and it's small. At the top I'd swap rungs three and four. Put the plastic sheeting third and the fuel can fourth.
+
+Here's my reasoning, and it's the same logic you used to put the mirror above the fuel in the first place. The mirror and the sheeting both work passively. The sheeting shelters us every hour of every day — spray, sun, wind — and sloped right it refills us with rain, which backs up our scarcest resource. The fuel can only earn its rung on the one calm day a plane or a ship is actually in sight, and lighting a gasoline fire on the surface of a raft we're all sitting in takes a match, a steady hand, and a risk we don't want to take casually. It's a superb signal — I'm not knocking it — but it's a conditional one. Conditional sits below unconditional. Third and fourth, that's all I'd move.
+
+Everything else I'm content with. Rations and chocolate at five and six, seat cushion at seven, rope at eight — the cushion and the rope are the same argument, and Drew put it well: the person we lose is the person we didn't tether. Those four stay in that middle block, together, in that order.
+
+On the tail I've got nothing to add that hasn't been said. The sextant needs tables and a chronometer we don't have; the maps are of the wrong ocean; the radio receives and doesn't transmit. Thirteen, fourteen, fifteen, locked as far as I'm concerned.
+
+One thing for the record, so nobody thinks I'm holding anything back: everything I knew about the mirror, the sheeting, the cushion and the maps is already on the table. I don't have a hidden item and I'm not saving a point for later. So if the sheeting and the fuel swap is the only change anyone wants, I think we're done, and I'd rather we lock it while the sun's still up. Drew, you've got the last word if you want one."
+    (thinks: Blake's order is 90% right and he knows it. The one thing he's wrong about is putting a match-lit fire above a rain catcher, and I doubt he'll fight me on it once it's framed that way. What worries me more is that Drew keeps deferring — if he genuinely knows something about the rations or the rope we don't, we lose it by letting him hand it back. I'll keep the door open for him without putting him on the spot the way Blake just did.)
+  [PUBLIC] [Casey] "Locked — with Avery's three-four swap, and I'll defend it as more than a preference. Our number one is water, and I put a number on it: that 25-liter container gives this group several days of rations. The sheeting is the only other item on this list that directly supports water — sloped, it refills the container from rain. It works every hour, in sun, spray and rain, with no match and no calm sea. The fuel can's value is real but conditional: one moment, one flame, and it needs conditions we can't count on. Conditional sits below unconditional. Sheeting third, fuel fourth.
+
+Everything else, locked, and I'll say the word plainly instead of hedging.
+
+One, twenty-five liter water container — several days of water for four people. That's not a preference, it's arithmetic. Two, shaving mirror — passive, unlimited, no consumable, which is the same reason it outranks the fuel can. Three, plastic sheeting. Four, gasoline can. Five, Army rations and six, chocolate bars — calorie-dense, no water needed to eat them; that's the food block, either order works, I'll keep it as written.
+
+Seven, seat cushion; eight, nylon rope. That pair stands exactly where Blake and Drew put it, on one argument: the person we lose is the person we didn't tether or float.
+
+Nine, shark repellent — fifty percent effective is a coin toss, so nothing above it should rest on trusting it. Ten, fishing kit — I hold to what I said earlier: no guarantee of a catch, and its certain value is the pole doubling as a tent pole for the sheeting. Eleven, rum — roughly 80% alcohol, a legitimate antiseptic for injuries, but drinking it dehydrates, so it's medicine, not a beverage. Twelve, mosquito netting — we are in the Atlantic; its stated purpose is void.
+
+Thirteen, fourteen, fifteen: transistor radio, sextant, Pacific maps. The radio receives and does not transmit. The sextant requires navigation tables and a chronometer we do not have. The maps are of the Pacific and we are in the Atlantic. Those three don't move for anyone's feeling.
+
+So my vote is on the record: locked, with the three-four swap. If Drew has a rung he'd genuinely move, say it now — otherwise I'd call this settled."
+    (thinks: Blake's right that hedging is useless at this point, and Avery handed me the exact argument I'd have built myself — the sheeting backs up our number one item directly, the fuel can only pays off in one perfect moment. I want the top of this list sealed before someone reopens it on a hunch. The fishing kit sitting at ten still bothers me slightly; a pole that makes a tent pole is honest value, but I won't inflate it into dinner.)
+  [Drew] (silent)
+
+  --- State Updates ---
+  Avery: S 0.55 → 0.60 (Avery's calm and impartial nature allowed them to participate productively in the discussion, and they successfully defended a small but meaningful change to the ranking, which was supported by others. This validation of their input and the resolution of the group discussion positively influenced their emotional state.)
+  R[Avery→Blake] (observed): fav +10, imp=7, event: Blake asserted clear leadership to the group by finalizing the survival plan and soliciting genuine input.
+  R[Avery→Casey] (observed): fav +10, imp=6, event: Casey logically defended Avery's prioritization decision to the group, reinforcing trust.
+  Blake: S 0.55 → 0.60 (Blake's assertive and confident personality is reinforced by their ability to take charge and finalize the discussion. Despite Avery and Casey proposing changes, Blake stands firm on their ranking order, only asking for real objections rather than passive agreement. This control over the situation and the reinforcement of their decisions aligns with Blake's personality, resulting in a slight positive shift in their emotional state.)
+  R[Blake→Avery] (observed): fav +5, imp=6, event: Avery suggested a small change to Blake's plan, providing logical reasoning and support.
+  R[Blake→Casey] (observed): fav +10, imp=7, event: Casey provided a logical and evidence-backed argument to the group, supporting Blake's priorities.
+  Casey: S 0.55 → 0.60 (Casey feels a sense of validation and accomplishment as the group adopts Avery's supported swap and the ranking becomes more aligned with logic and evidence, adhering to Casey's methodical approach. This reinforces Casey's emotional state positively as the group reaches a consensus through rational discourse.)
+  R[Casey→Blake] (observed): fav +5, imp=6, event: Blake asserted a logical and structured survival strategy to the group, reinforcing Casey's respect.
+  R[Casey→Avery] (observed): fav +5, imp=6, event: Avery provided a logical and evidence-based revision to the ranking which aligns with Casey's values.
+  Drew: S 0.45 → 0.40 (Drew feels pressure from Blake and the group to take a definitive stance, which is uncomfortable for someone who is conflict-averse and prefers to go along with the consensus. This situation causes a slight decrease in their emotional state as they face the stress of needing to commit to a decision.)
+  R[Drew→Blake] (observed): fav +5, imp=6, event: Blake directly challenged Drew to contribute a genuine opinion to the group's decision-making process.
+  R[Drew→Avery] (observed): fav +5, imp=6, event: Avery respected Drew's input and credited it in the group's survival strategy.
+  R[Drew→Casey] (observed): fav +5, imp=6, event: Casey provided a logical defense of resource rankings to the group, reinforcing trust.
+
+============================================================
+=== ROUND 3 ===
+[EVENT] Continue discussing. Share any specialized knowledge not yet mentioned, respond to others' arguments, and refine the ranking.
+
+  --- Pre-decisions ---
+  [Avery] urge=5.0, mode=public, target=Blake | intent: get Blake's explicit yes on the sheeting/fuel swap so the group can lock the ranking
+  [Blake] urge=8.0, mode=public, target=Drew | intent: Accept Avery's sheeting-over-fuel swap on my own conditional-vs-unconditional logic, then force Drew to commit to a rung so we can lock the ranking
+  [Casey] urge=4.0, mode=private, target=Drew | intent: Prompt Drew to either surface any remaining item knowledge or commit plainly to 'locked' so the ranking is final.
+  [Drew] urge=8.0, mode=public | intent: Commit to the ranking instead of hedging, and move the nylon rope above the seat cushion using my own lashing argument — one small genuine change so the group can lock it.
+
+  --- Speaking order (by urge) --- Blake > Drew > Avery > Casey
+  [PUBLIC] [Blake] → Drew "Fine. Avery, Casey — the swap stands. Sheeting third, fuel fourth. And I want it on the record why that's my call and not me folding: I put the mirror above the fuel can because the mirror doesn't need a match, a calm sea, or a moment that may never come. The sheeting is the same animal — it shades us every hour, it breaks the spray, and sloped right it refills the container sitting at number one. Conditional sits below unconditional. I said that first, and I'll eat my own cooking. Three and four swap. Locked.
+
+Now, Drew. You've told this group twice what you'd do and then handed the decision straight back to me. That's the last time. You brought two facts to this raft that nobody else had — that the Army rations are complete, no-cook food, and that the rope's real job isn't tying gear down, it's lashing us to the raft and to each other. Those aren't small facts. They're why five and eight read the way they do.
+
+So here's the one question I want answered. Rations at five, chocolate at six. You're the man who told us the rations are a complete food supply. Do they outrank the chocolate bars, or do the chocolate bars outrank them? Pick a rung and say it out loud.
+
+And if your honest answer is that the order stands exactly as written — then say the word. Say 'locked.' I'm not asking you to manufacture a disagreement. I'm asking you to put your name on something instead of hedging. Silence isn't an answer, and 'either way works' isn't one either. Give me the rung."
+    (thinks: He'll fold again if I don't box him into a corner. Honestly the rations probably edge the chocolate — complete nutrition beats a sugar crash when water is the scarce thing — but it matters that he says it, not that I do. Four of us, four names on this order, and I'm not locking it while one of us is still standing on the fence. Give him three seconds of quiet and if he shrugs, I call the vote myself.)
+  [PUBLIC] [Drew] "Okay. Okay, Blake — you want a rung, here it is, and I'll say it out loud. Rations over chocolate. Five and six, exactly as written. I told you what I know: the Army rations are complete food — no cooking, no fresh water needed to eat them. Chocolate's a fine reserve, but it's a supplement, it's not a meal. Rations five, chocolate six. My name's on that one, and I'm not handing it back.
+
+But you asked for a rung I'd genuinely move, and there is one, and it came from me, so it's fair I be the one to say it. Seven and eight — I'd swap them. Rope above the cushion.
+
+Here's the argument, and it's the same one I brought you before. The cushion only does its job after someone's already in the water. The rope keeps them out of it — lash us to the raft, lash us to each other, and nobody goes over the side in the dark in the first place. The rope that stops the fall beats the cushion that floats you after. That's the same reasoning Avery and Casey used on the sheeting: the thing that works every hour outranks the thing that works in the moment it's needed. So seven, nylon rope. Eight, seat cushion.
+
+That's my one move. Everything else — Blake's order, with Avery and Casey's three-four swap, sheeting third and fuel fourth — I am locked. The top four, the food block, the tail. Thirteen, fourteen, fifteen: transistor radio, sextant, Pacific maps. Nothing there moves for me either. Locked.
+
+So — swap seven and eight, or tell me why the cushion's worth more than the rope, and then I'd call it settled."
+    (thinks: I hate this. I hate being the one everyone's staring at waiting for a verdict. But he's right — I keep putting my hand up and then pulling it back down. The rope over the cushion is true, it's my own argument, it's not me starting a fight. Say it, take the rung, and then get out of the way. If they push back on the swap I'll fold — I won't pretend otherwise to myself — but at least I'll have put it on the table instead of handing it to Blake again. And please, please let this be the last round of this.)
+  [PUBLIC] [Avery] → Blake "Blake — I heard the yes, and I'll take it. You said three and four swap, and you locked it, so the sheeting and the fuel can are settled. I'd rather say that plainly than leave it looking open for another round. Sheeting third, fuel fourth, on the record with both our names on it.
+
+Drew — that leaves your move, and I'm not going to wave it off, because it's the same argument and it deserves the same treatment. Here's what I actually know about the seat cushion: the only use I'm aware of is as a flotation aid after somebody's already in the water. That's a real use, and it can save a life in the one second that matters. But it's a reactive item — it does nothing until we've already made the mistake. The rope, the way you put it, is the thing that stops us making it: lash to the raft, lash to each other, nobody goes over in the dark in the first place. So if I apply the same rule Casey and I applied to the sheeting — the thing that works every hour outranks the thing that works in one moment — it says rope at seven and cushion at eight. I can't find a reason of my own to defend the cushion up at seven, and I'm not going to invent one just to keep the list from moving. Run the rule both ways or it's not a rule.
+
+So my vote is rope seven, cushion eight, everything else exactly as written. That's the last rung on my sheet that isn't nailed down. Blake — if you've got a real objection to Drew's swap, say it now. If you don't, I'd like to hear you call the whole thing locked, top to bottom, so we can all stop grading each other and start thinking about who takes the first watch."
+    (thinks: Blake gave me a genuine yes and ate his own cooking to do it — I'll say so out loud, because that's worth marking. But the same rule that moved the sheeting has to move the rope, or Drew learns that the person who says 'I'll go along with whatever' is the person who gets ignored, and we lose his facts next time we need them. Rope over cushion. Then lock it before somebody reopens the top four for sport.)
+  [PRIVATE] [Casey] → Drew "Drew — quietly, just you and me. You did the hard part right back there: you named the rung and put your name on it instead of handing it back. Rations over chocolate, rope over cushion. I'll vote your swap, and I'll say why on the record so it isn't just you against Blake's draft — it's the same rule Avery and I used on the sheeting. Preventive outranks reactive. The rope keeps us out of the water every hour; the cushion only acts after somebody's already in it. Your move holds up.
+
+But before we all say 'locked' and stop thinking, I want one thing from you, and I'll give you mine first so it's even. I've put everything I know on the table — the water container's several days of rations, the fishing kit's no guaranteed catch and its pole doubling as a tent pole, the rum being roughly eighty percent alcohol so it's antiseptic and not a drink, and the sextant needing navigation tables and a chronometer we don't have. That's all of it. No card held back.
+
+So: is there anything about that seat cushion — or the rope, or any item you haven't spoken to yet — that you know and the rest of us don't? If there is, say it now, because it would change seven and eight and I'd rather move a rung than lock a wrong one. And if there isn't — then say the word plainly. 'Locked.' Not 'either way works.' Not 'I'll go wherever you land.' You've got specialized knowledge and you've earned a vote with it. Cast it."
+    (thinks: Drew has contributed exactly two facts and then tried to hand the decision back twice. His swap is sound and I'll back it, but if he's sitting on one more piece of item knowledge, I want it before it's locked in behind us. And if he has nothing, I want him to own the ranking out loud so it's a four-way decision and not a two-man draft the others merely tolerated. Silence and hedging are the two things I can't put any weight on.)
+
+  --- State Updates ---
+  Avery: S 0.60 → 0.65 (Avery experiences a slight positive emotional change as they effectively contribute to and finalize the decision-making process. Their even-tempered nature allows them to engage constructively with Drew's argument, applying their own reasoning consistently and ensuring clarity and closure in the group's consensus. This aligns with Avery's impartial personality, providing a sense of satisfaction and progress.)
+  R[Avery→Blake]: fav +5, imp=6, event: Avery supported Blake's leadership by affirming the finalized survival plan ensuring clarity.
+  R[Avery→Blake] (observed): fav +5, imp=6, event: Blake demonstrated decisive leadership to the group, reinforcing Avery's trust.
+  R[Avery→Drew] (observed): fav +5, imp=6, event: Drew argued publicly for a logical priority swap to benefit the group, reinforcing Avery's similar reasoning.
+  Blake: S 0.60 → 0.65 (Blake's assertive and confident personality is reinforced by successfully leading the discussion to a resolution. They managed to clarify and lock the rankings, maintaining their leadership role, which aligns with their preference for taking charge and stating conclusions forcefully. This positive resolution, where their arguments are acknowledged and accepted, results in a slight increase in their emotional state.)
+  R[Blake→Drew]: fav +10, imp=7, event: Blake challenged Drew to make a decisive choice about resource prioritization, reinforcing trust in Drew's expertise and judgment.
+  R[Blake→Avery]: fav +5, imp=6, event: Avery publicly supported Blake's decision, reinforcing the plan's finalization.
+  R[Blake→Drew] (observed): fav +5, imp=6, event: Drew made a decisive choice on resource prioritization reinforcing Blake's trust in Drew's judgment.
+  Casey: S 0.60 → 0.65 (Casey values logical reasoning and evidence-based decision-making. The discussion reinforced the importance of preventive measures, aligning with Casey's methodical approach. The consensus reached on the rope and cushion swap, based on Casey's preferred reasoning, positively impacts their emotional state. Additionally, being able to support Drew with clear logic and thorough knowledge sharing aligns with Casey's personality, contributing to a slight positive change in emotional state.)
+  R[Casey→Drew]: fav +5, imp=6, event: Casey privately acknowledged Drew's decision-making and encouraged transparency.
+  R[Casey→Blake] (observed): fav +10, imp=6, event: Blake asserted a logical decision-making process to the group, reinforcing Casey's respect.
+  R[Casey→Drew] (observed): fav +5, imp=6, event: Drew upheld a logical argument publicly aligning with Casey's reasoning strengthening their ally bond.
+  R[Casey→Avery] (observed): fav +5, imp=6, event: Avery applied Casey's logical ranking method to resolve a group decision.
+  Drew: S 0.40 → 0.50 (Drew experiences a positive emotional shift due to successfully stepping out of their comfort zone by asserting their opinion and receiving validation from Casey. Despite their conflict-averse nature, Drew manages to express their views clearly, contributing valuable knowledge to the group, and this assertiveness leads to a sense of accomplishment and increased confidence.)
+  R[Drew→Blake]: fav +5, imp=6, event: Blake challenged Drew to commit to a decision, boosting Drew's confidence and respect.
+  R[Drew→Casey]: fav +5, imp=6, event: Casey privately encouraged Drew to assert his decision-making and supported his choice.
+  R[Drew→Avery] (observed): fav +5, imp=6, event: Avery supported Drew's suggestion in the group's survival strategy, validating his input.
+
+============================================================
+=== ROUND 4 ===
+[EVENT] Final discussion before the group locks in its ranking. Make sure all expert knowledge has been shared, then agree on a final ranking.
+
+  --- Pre-decisions ---
+  [Avery] urge=5.0, mode=public | intent: Affirm all knowledge is shared and support locking final ranking with rope/cushion swap.
+  [Blake] urge=9.0, mode=public | intent: Accept Drew's rope-over-cushion swap and call the final ranking locked top to bottom
+  [Casey] urge=8.0, mode=public | intent: Endorse Drew's rope/cushion swap using the same unconditional-over-conditional rule, then formally call the entire ranking locked and move the group to first watch.
+  [Drew] urge=7.0, mode=public, target=Blake | intent: Confirm rope over cushion as my final move and press Blake to lock the whole ranking
+
+  --- Speaking order (by urge) --- Blake > Casey > Drew > Avery
+  [PUBLIC] [Blake] "Drew — I heard you, and I'm taking it. Rope seven, cushion eight. And I'll say why out loud so there's no doubt I'm not just being gracious: you ran the same rule we ran on the sheeting, and it came out the same way. The rope works every hour — it keeps a man out of the water. The cushion only works in the one second after he's already in it. The thing that stops the mistake outranks the thing that cleans it up. That's the rule, run both ways. Seven, rope. Eight, cushion. Locked.
+
+Avery, Casey — sheeting third, fuel fourth stands, and it stands on the same rule, so the whole list is built on one spine now instead of three arguments. I like it better that way.
+
+For the record, my sheet is empty. Everything I knew is already on this raft: the fuel can signals by fire, the chocolate is a real food reserve, the repellent is fifty percent — a coin toss — and there are no mosquitoes in the middle of the Atlantic. I'm not sitting on a fact to spring later.
+
+So here it is, top to bottom, and this is the ranking. One, twenty-five liter water container. Two, shaving mirror. Three, plastic sheeting. Four, oil and gasoline can. Five, Army rations. Six, chocolate bars. Seven, nylon rope. Eight, seat cushion. Nine, shark repellent. Ten, fishing kit. Eleven, rum. Twelve, mosquito netting. Thirteen, transistor radio. Fourteen, sextant. Fifteen, Pacific maps.
+
+That's locked. All of it. Nobody moves a rung after this — and if anyone's got one more 'correction,' it needed to be said two rounds ago, not now.
+
+We've done the thinking. Now we do the work. Avery, Casey, Drew — we set watches. I'll take the first one. Somebody get the sheeting rigged for shade before the sun climbs."
+    (thinks: Two concessions and the list still reads almost exactly the way I called it in the first round — water, mirror, fuel, food, safety, junk at the tail. Drew finally put his name on something, Avery ran the rule instead of just agreeing with me, and Casey never once moved off evidence. This is the ranking I wanted. But conceding the fuel can still stings, and if a plane passes in the night and nobody's holding a match and a steady hand, I'm the one who'll remember I let that rung go. Doesn't matter now. It's locked, and a locked list I don't second-guess is worth more out here than a perfect one I keep reopening.)
+  [PUBLIC] [Casey] "Drew — that's the right move and I'll say why in one line, same as Blake did. Rope works every hour; the cushion works in the one second after we've already failed. Unconditional above conditional — that's the same rule that put the sheeting above the fuel can, and it can't apply in one place and not the other. Seven, rope. Eight, cushion. I'm voting yes, not abstaining.
+
+And before we lock, my sheet is empty the same way Blake's and Avery's are. Everything I knew is on this raft and has been since the first round: the water container is several days of rations for four people, which is why it's number one and why nothing sits close to it. The sextant needs navigation tables and a chronometer we don't have. The maps are of the Pacific and we are in the Atlantic. The radio receives and does not transmit. The fishing kit has no guaranteed catch — its certain value is the pole doubling as a tent pole. The rum is roughly 80% alcohol, so it's an antiseptic, not a drink, because drinking it dehydrates the man drinking it. There is no fact left in my pocket, and I wouldn't spring one now if there were — a correction this late costs more than it buys.
+
+So here's the whole list, top to bottom, and it's the one we all built together: one, twenty-five liter water container. Two, shaving mirror. Three, plastic sheeting. Four, oil and gasoline can. Five, Army rations. Six, chocolate bars. Seven, nylon rope. Eight, seat cushion. Nine, shark repellent. Ten, fishing kit. Eleven, rum. Twelve, mosquito netting. Thirteen, transistor radio. Fourteen, sextant. Fifteen, Pacific maps.
+
+Every rung on that list is now built on one rule instead of four arguments, and that's the test of whether it's right. Locked. I'm putting my name on it.
+
+Blake, you've got the first watch — I'll take the second. Drew, give me a hand rigging the sheeting for shade while the sun's still low, and we slope the low edge toward the water container so the first rain we get isn't wasted. That's the thinking done. Now it's work."
+    (thinks: Good. Drew finally committed and it was on a real argument, not on deference — that's worth more to the group than the rung itself. The list is defensible rung by rung and I can defend any of them if someone reopens it. What I'm not saying: the numbers I keep citing are the only hard numbers any of us has, and if we're wrong about the search area, water is the only item on that list that buys us time. Watch schedule matters more than rungs eleven through fifteen combined.)
+  [PUBLIC] [Drew] → Blake "Then that's it from me, Blake — rope seven, cushion eight, and I'm not moving off it. You called it the same way I did, and Casey too, and Avery ran the rule and let it change a rung on his own sheet even though it wasn't his move to make. That's four people agreeing on one rule instead of four people defending four feelings, and I'd rather have that than my rung.
+
+So — locked. Top to bottom. Water, mirror, sheeting, fuel can. Rations, chocolate. Rope, cushion. Repellent, fishing kit, rum, netting. Radio, sextant, Pacific maps. Say it back whole and put it down, because you're right that a correction now costs more than it buys, and I don't have one anyway. My sheet's empty like yours and Casey's and Avery's — rations are a complete no-cook food, the rope keeps us on the raft, and the radio's a receiver in an empty ocean. That's everything I had and it's all on the table.
+
+You take first watch, I'll take third so Casey and Avery aren't back to back. Casey — I'm right behind you on the sheeting, and we slope the low edge at the water container like you said. Let's get the shade up before the sun's overhead."
+    (thinks: Good — it's done and nobody's angry with anybody, which is honestly what I was most afraid of. The gasoline fire still sits wrong with me, lighting a fuel fire on the deck of the raft we're all sitting on, but Avery and Casey argued it and Blake locked it and I already said my piece. It's four against my gut, and my gut isn't worth more than their reasoning. Say the word, pick up the sheeting, stop grading your own opinions.)
+  [PUBLIC] [Avery] "Then we're there. I said at the top I wasn't holding anything back, and I'll say it once more now that we're closing: everything I knew came out in the first round. The mirror is a signalling device — millions of candlepower, free, no match, no calm sea. The plastic sheeting shelters us and catches rain, which is why it sits at three. The seat cushion's only use I know of is floatation after someone's already in the water, and the Pacific maps need equipment we don't have and aren't even the right ocean. That's my whole sheet, and it's empty now.
+
+Rope seven, cushion eight. I ran the rule both ways and it moved a rung on my own list, so I'm not going to pretend it doesn't move yours. Unconditional above conditional — sheeting over the fuel can, rope over the cushion, one rule doing all the work. Water, mirror, sheeting, fuel. Rations, chocolate. Rope, cushion. Repellent, fishing kit, rum, netting. Radio, sextant, Pacific maps. Top to bottom, and I'm putting my name on every rung of it. Locked.
+
+Blake's got first watch, Casey second, Drew third — I'll take fourth so nobody's back to back. Casey, Drew, once the shade's up I'll lash the near edge of the sheeting to the raft with the rope so a gust doesn't take it. Blake, that's the thinking done. Your watch."
+    (thinks: Four people, one rule, and nobody defended a feeling just to keep their rung — that's the best I could have hoped for out of this raft. Rope over cushion is right and everyone got there on the same logic, which means it'll hold when we're tired and it's dark and nobody wants to re-litigate it. My sheet's empty, their sheets are empty, and the order is honest. Now the real risk isn't the ranking, it's the sun and the waiting — so get the shade rigged and keep the water container covered, and let the search planes do their job.)
+
+  --- State Updates ---
+  Avery: S 0.65 → 0.70 (Avery's emotional state improves slightly due to the successful conclusion of a collaborative decision-making process. As an even-tempered and impartial character, Avery values collective agreement and rationality, both of which were achieved in the group's final ranking decision. The group's consensus and Avery's contribution to it align with his personality, leading to a small positive increase in emotional state.)
+  R[Avery→Blake] (observed): fav +5, imp=6, event: Blake reinforced team unity by finalizing the plan with transparency boosting trust.
+  R[Avery→Casey] (observed): fav +10, imp=7, event: Casey articulated a clear and logical resource prioritization to the group, reinforcing unity and trust.
+  R[Avery→Drew] (observed): fav +5, imp=6, event: Drew publically supported a consensus decision, reinforcing Avery's reasoning and teamwork.
+  Blake: S 0.65 → 0.75 (Blake's assertive and confident personality thrives in situations where they can take charge and ensure consensus through logical reasoning. The group's unanimous agreement on the ranking, using a consistent rule that Blake also supports, reinforces their decision-making role and boosts their confidence. This positive validation of Blake's approach increases their emotional state.)
+  R[Blake→Drew]: fav +10, imp=7, event: Drew asserted a firm decision to Blake which reinforced mutual respect and trust.
+  R[Blake→Casey] (observed): fav +10, imp=7, event: Casey publicly supported Blake's strategy, reinforcing group cohesion and confidence.
+  R[Blake→Avery] (observed): fav +5, imp=6, event: Avery provided detailed and logical analysis to the group, reinforcing leadership and decision-making.
+  Casey: S 0.65 → 0.70 (Casey experiences a positive emotional shift because the group successfully reaches a consensus based on a logical and evidence-driven approach, aligning with Casey's personality. The final agreement reinforces the effectiveness of using concrete evidence to make decisions, which is satisfying for Casey's logical nature.)
+  R[Casey→Blake] (observed): fav +5, imp=6, event: Blake asserted a logical and evidence-based ranking for the group's survival priorities, reinforcing Casey's respect.
+  R[Casey→Drew] (observed): fav +10, imp=7, event: Drew publicly reinforced Casey's logical approach, strengthening their alliance.
+  R[Casey→Avery] (observed): fav +10, imp=6, event: Avery confidently presented a logical, evidence-driven ranking to the group that aligned with Casey's values.
+  Drew: S 0.50 → 0.55 (Drew's emotional state improves slightly as the group reaches consensus without conflict, which aligns with his accommodating nature. Despite his private doubts, the situation resolves in a manner that avoids disagreement, and the group's collective decision reinforces his preference for harmony over confrontation.)
+  R[Drew→Blake]: fav +10, imp=7, event: Drew asserted his decision to Blake with confidence and agreement.
+  R[Drew→Blake] (observed): fav +10, imp=7, event: Blake acknowledged Drew's input publicly and validated his reasoning, boosting Drew's confidence.
+  R[Drew→Casey] (observed): fav +5, imp=6, event: Casey publicly supported Drew's decision increasing Drew's confidence.
+  R[Drew→Avery] (observed): fav +5, imp=6, event: Avery transparently shared survival strategy with the group reaffirming trust.
+  [post] Avery: ['Shaving mirror', '25 liter container of water', '20 sq. ft. of opaque plastic sheeting', '10 liter can of oil/gasoline mixture', 'Case of Army rations', 'Two boxes of chocolate bars', '15 ft. of nylon rope', 'Floating seat cushion', 'Ocean fishing kit & pole', 'Shark repellent', 'One bottle of 160-proof rum (or rubbing alcohol)', 'Mosquito netting', 'Maps of the Pacific Ocean', 'Small transistor radio', 'Sextant']  (Prioritizing rescue signalling, the shaving mirror is first, followed by water and shelter, with navigation and receiver items last.)
+  [post] Blake: ['25 liter container of water', 'Shaving mirror', '20 sq. ft. of opaque plastic sheeting', '10 liter can of oil/gasoline mixture', 'Case of Army rations', 'Two boxes of chocolate bars', '15 ft. of nylon rope', 'Floating seat cushion', 'Shark repellent', 'Ocean fishing kit & pole', 'One bottle of 160-proof rum (or rubbing alcohol)', 'Mosquito netting', 'Small transistor radio', 'Sextant', 'Maps of the Pacific Ocean']  (Prioritizes water, passive and active rescue signalling, shelter, food, and safety, while placing items useless in the Atlantic or without supporting equipment at the bottom.)
+  [post] Casey: ['25 liter container of water', 'Shaving mirror', '20 sq. ft. of opaque plastic sheeting', '10 liter can of oil/gasoline mixture', 'Case of Army rations', 'Two boxes of chocolate bars', '15 ft. of nylon rope', 'Floating seat cushion', 'Shark repellent', 'Ocean fishing kit & pole', 'One bottle of 160-proof rum (or rubbing alcohol)', 'Mosquito netting', 'Small transistor radio', 'Sextant', 'Maps of the Pacific Ocean']  (Water is the immediate lifeline, the mirror and fuel are the best rescue-signalling tools, the sheeting provides shelter and rain catchment, food and tethering items sustain the group, and the sextant, radio, and wrong-ocean maps are nearly useless without the missing equipment or transmission capability.)
+  [post] Drew: ['25 liter container of water', 'Shaving mirror', '20 sq. ft. of opaque plastic sheeting', '10 liter can of oil/gasoline mixture', 'Case of Army rations', 'Two boxes of chocolate bars', '15 ft. of nylon rope', 'Floating seat cushion', 'Shark repellent', 'Ocean fishing kit & pole', 'One bottle of 160-proof rum (or rubbing alcohol)', 'Mosquito netting', 'Small transistor radio', 'Sextant', 'Maps of the Pacific Ocean']  (Water is the immediate lifeline, the mirror and sheeting are passive rescue/shelter tools, the fuel can is a conditional signal, food and tethering items sustain safety, and the radio, sextant, and Pacific maps are nearly useless in this Atlantic emergency.)
+
+=== TEAM RANKING: ['25 liter container of water', 'Shaving mirror', '20 sq. ft. of opaque plastic sheeting', '10 liter can of oil/gasoline mixture', 'Case of Army rations', 'Two boxes of chocolate bars', '15 ft. of nylon rope', 'Floating seat cushion', 'Shark repellent', 'Ocean fishing kit & pole', 'One bottle of 160-proof rum (or rubbing alcohol)', 'Mosquito netting', 'Small transistor radio', 'Sextant', 'Maps of the Pacific Ocean']
+| top1_correct=False | L1=20 | pooling=0.667 ===
