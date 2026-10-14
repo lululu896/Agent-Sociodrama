@@ -4,7 +4,7 @@
 <sup>1</sup>Beihang University &nbsp;&nbsp; <sup>2</sup>Nanyang Technological University, Singapore
 <sup>&dagger;</sup>Corresponding authors
 
-[[Paper (arXiv)]](https://arxiv.org/abs/2610.15788) &nbsp; [[Project Page]](https://lululu896.github.io/Agent-Sociodrama/)
+[[Paper (arXiv)]](https://arxiv.org/abs/2610.15788) &nbsp; [[Project Page]](https://lululu896.github.io/Agent-Sociodrama/) &nbsp; [[Hugging Face Paper]](https://huggingface.co/papers/2610.15788)
 
 LLM agent teams fail in characteristically social ways: information holders stay silent, dominant speakers anchor groups on wrong answers, and norm violations go unsanctioned. **Agent Sociodrama** models how agents' emotional states and directed, asymmetric relationships evolve over interaction, validates these trajectories against classical social-theory patterns and human judgments, and uses them to diagnose team failures. **Trajectory-Guided Persona Recasting (TPR)** then recasts agent personas to repair the team.
 
